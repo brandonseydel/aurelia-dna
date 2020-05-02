@@ -1,6 +1,6 @@
 # aurelia-dna
-
-This project is bootstrapped by [aurelia/new](https://github.com/aurelia/new).
+This is an aurelia plugin for fast-dna components.
+This project is bootstrapped by npx au2.
 
 ## Start dev web server
 
@@ -16,3 +16,5 @@ Build files to dist folder.
 ## Analyze webpack bundle
 
     npm run analyze
+
+
