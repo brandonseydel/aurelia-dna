@@ -11,6 +11,6 @@
     "resolveJsonModule": true
   },
   "include": [
-    "src"
+    "src", "app/main.ts", "app/my-app.ts", "app/resource.d.ts"
   ]
 }
